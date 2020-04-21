@@ -1,0 +1,29 @@
+body
+{
+  font-family: Verdana;
+  background-color:lightblue;
+  text-align: justify;
+}
+h1{
+  color:blue;
+  font-weight:bold;
+  font-size:xx-large;
+}
+p1{
+ font-family: Verdana,Helvetica,sans-serif;
+ font-size: 12px;
+}
+p.citat{
+ font-style: italic;
+ font-size: 12px;
+ border: 1px solid #000;
+ background-color: #FFFFCC;
+}
+p.drugi{
+  color: FireBrick;
+  text-align: center;
+}
+p.treci{
+  font-style: italic;
+  text-align: right;
+}
